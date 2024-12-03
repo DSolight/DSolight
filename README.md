@@ -29,6 +29,6 @@
 <div id="projects" align="center">
   <p>Магазин реставрации квартир: верстка по макету, адаптивная верстка</p>
   <a href="https://dsolight.github.io/IC-Repair-Design/">
-    <img src="/DSolight/img/ic.JPG"/>
+    <img src="/img/ic.JPG"/>
   </a>
 </div>
