@@ -1,16 +1,32 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Привет 👋, меня зовут Арсений</h1>
+  <h3>Я Frontend разработчик</h3>
+</div>
 
-<!--
-**DSolight/DSolight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+  <a href="https://t.me/ArsLight">
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div id="about" align="center">
+  <p>Занимаюсь вёрсткой макетов, разработкой приложений</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stack" align="center">
+  <p>Я использую:</p>
+  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/html.png" alt="html"/>
+  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/css.png" alt="css"/>
+  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/js.png" alt="js"/>
+  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/react-native.png" alt="react-native"/>
+  <img width="100" height="100" src="https://img.icons8.com/color/100/vite.png" alt="vite"/>
+  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/sass.png" alt="sass"/>
+</div>
+
+- 🔭 В данный момент я учавствую в хакатоне по разработке полноценного приложения
+- 🧠 Постоянно развиваюсь и обучаюсь новым методам написания кода
+- 👨‍💻 Мои проекты:
+<div id="projects" align="center">
+  <a href="https://dsolight.github.io/IC-Repair-Design/">
+    <img />
+</div>
