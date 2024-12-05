@@ -16,7 +16,7 @@
 <div id="stack" align="center">
   <p>Я использую:</p>
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/html.png" alt="html"/>
-  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/css.png" alt="css"/>
+  <img width="100" height="100" src="img/css.svg" alt="css"/>
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/js.png" alt="js"/>
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/react-native.png" alt="react-native"/>
   <img width="100" height="100" src="https://img.icons8.com/color/100/vite.png" alt="vite"/>
