@@ -15,10 +15,10 @@
 
 <div id="stack" align="center">
   <p>Я использую:</p>
-  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/html.png" alt="html"/>
+  <img width="100" height="100" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/100/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons"/>
   <img width="100" height="100" src="img/css.svg" alt="css"/>
-  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/js.png" alt="js"/>
-  <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/react-native.png" alt="react-native"/>
+  <img width="100" height="100" src="https://img.icons8.com/color/100/javascript--v1.png" alt="javascript--v1"/>
+  <img width="100" height="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo"/>
   <img width="100" height="100" src="https://img.icons8.com/color/100/vite.png" alt="vite"/>
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/sass.png" alt="sass"/>
 </div>
