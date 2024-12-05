@@ -46,9 +46,9 @@
   </a>
   </div>
   <div>
-  <p>Магазин реставрации квартир: верстка по макету, адаптивная верстка</p>
-  <a href="https://dsolight.github.io/IC-Repair-Design/">
-    <img src="/img/ic.JPG"/>
+  <p>Сайт-визитка для фотографа: верстка по макету, адаптивная верстка</p>
+  <a href="https://dsolight.github.io/RobinW/">
+    <img src="/img/rw.JPG"/>
   </a>
   </div>
 </div>
