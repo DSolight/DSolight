@@ -4,7 +4,7 @@
 </div>
 
  <div align="center">
-  <a href="https://t.me/ArsLight">
+  <a href="https://t.me/ArsLight" style="text-decoration: none;">
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
