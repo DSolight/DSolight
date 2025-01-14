@@ -46,15 +46,15 @@
   </a>
   </div>
   <div>
-  <p>Макет магазина электроники: верстка по макету, адаптивная верстка</p>
-  <a href="https://dsolight.github.io/WPPlugins/">
-    <img src="/img/wp.JPG"/>
-  </a>
-  </div>
-  <div>
   <p>Сайт-визитка для фотографа: верстка по макету, адаптивная верстка</p>
   <a href="https://dsolight.github.io/RobinW/">
     <img src="/img/rw.JPG"/>
+  </a>
+  </div>
+  <div>
+  <p>Макет магазина электроники: верстка по макету, адаптивная верстка</p>
+  <a href="https://dsolight.github.io/WPPlugins/">
+    <img src="/img/wp.JPG"/>
   </a>
   </div>
 </div>
