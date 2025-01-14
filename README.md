@@ -3,13 +3,15 @@
   <h3>Я Frontend разработчик</h3>
 </div>
 
-<div id="socials" align="center" style="display: flex; justify-content: center; gap: 20px;">
+ <div align="center">
   <a href="https://t.me/ArsLight">
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://krasnoyarsk.hh.ru/resume/6e80c1eeff0c8af3090039ed1f4f6737356545">
     <img width="50" height="50" src="img/hh.svg" alt="hh"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mbros.ars.rabota@gmail.com">
     <img width="50" height="50" src="https://img.icons8.com/fluency/50/gmail-new.png" alt="gmail-new"/>
   </a>
