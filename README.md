@@ -3,7 +3,7 @@
   <h3>Я Frontend разработчик</h3>
 </div>
 
-<div id="socials" align="center">
+<div id="socials" align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://t.me/ArsLight">
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
   </a>
