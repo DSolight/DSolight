@@ -7,6 +7,12 @@
   <a href="https://t.me/ArsLight">
     <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/>
   </a>
+  <a href="https://krasnoyarsk.hh.ru/resume/6e80c1eeff0c8af3090039ed1f4f6737356545">
+    <img width="50" height="50" src="img/hh.svg" alt="hh"/>
+  </a>
+  <a href="mailto:mbros.ars.rabota@gmail.com">
+    <img width="50" height="50" src="https://img.icons8.com/fluency/50/gmail-new.png" alt="gmail-new"/>
+  </a>
 </div>
 
 <div id="about" align="center">
@@ -23,7 +29,7 @@
   <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/sass.png" alt="sass"/>
 </div>
 
--   🔭 В данный момент продолжаю изучать и практиковаться в разработке
+-   🔭 В данный момент продолжаю практиковаться в разработке
 -   🧠 Постоянно развиваюсь и обучаюсь новым методам написания кода
 -   👨‍💻 Мои проекты:
 <div id="projects" align="center">
